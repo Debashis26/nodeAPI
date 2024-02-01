@@ -1,0 +1,6 @@
+{
+  "watch": ["./src", "./db/userDB.json"],
+  "ext": "ts,json", 
+  "exec": "ts-node src/app.ts"
+  
+}
